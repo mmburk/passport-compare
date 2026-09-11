@@ -22,7 +22,7 @@ export const PASSPORTS = [
     "flag": "🇹🇷",
     "coverColor": "#064e3b",
     "continent": "Avrupa / Asya",
-    "rank": 2,
+    "rank": 35,
     "accessScore": 149,
     "score": 162.0
   },
@@ -35,7 +35,7 @@ export const PASSPORTS = [
     "flag": "🇹🇷",
     "coverColor": "#334155",
     "continent": "Avrupa / Asya",
-    "rank": 2,
+    "rank": 35,
     "accessScore": 149,
     "score": 162.0
   },
@@ -48,9 +48,9 @@ export const PASSPORTS = [
     "flag": "🇸🇬",
     "coverColor": "#7f1d1d",
     "continent": "Asya",
-    "rank": 5,
-    "accessScore": 145,
-    "score": 161.6
+    "rank": 2,
+    "accessScore": 156,
+    "score": 170.6
   },
   {
     "id": "JP",
@@ -61,9 +61,9 @@ export const PASSPORTS = [
     "flag": "🇯🇵",
     "coverColor": "#7f1d1d",
     "continent": "Asya",
-    "rank": 5,
-    "accessScore": 145,
-    "score": 160.6
+    "rank": 4,
+    "accessScore": 155,
+    "score": 170.0
   },
   {
     "id": "DE",
@@ -74,9 +74,9 @@ export const PASSPORTS = [
     "flag": "🇩🇪",
     "coverColor": "#451a03",
     "continent": "Avrupa",
-    "rank": 5,
-    "accessScore": 145,
-    "score": 161.4
+    "rank": 4,
+    "accessScore": 155,
+    "score": 170.2
   },
   {
     "id": "FR",
@@ -87,9 +87,9 @@ export const PASSPORTS = [
     "flag": "🇫🇷",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 5,
-    "accessScore": 145,
-    "score": 161.4
+    "rank": 4,
+    "accessScore": 155,
+    "score": 170.2
   },
   {
     "id": "IT",
@@ -100,9 +100,9 @@ export const PASSPORTS = [
     "flag": "🇮🇹",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 5,
-    "accessScore": 145,
-    "score": 161.4
+    "rank": 4,
+    "accessScore": 155,
+    "score": 170.2
   },
   {
     "id": "ES",
@@ -113,9 +113,9 @@ export const PASSPORTS = [
     "flag": "🇪🇸",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 5,
-    "accessScore": 145,
-    "score": 161.4
+    "rank": 4,
+    "accessScore": 155,
+    "score": 170.2
   },
   {
     "id": "FI",
@@ -126,9 +126,9 @@ export const PASSPORTS = [
     "flag": "🇫🇮",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "SE",
@@ -139,9 +139,9 @@ export const PASSPORTS = [
     "flag": "🇸🇪",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "NL",
@@ -152,9 +152,9 @@ export const PASSPORTS = [
     "flag": "🇳🇱",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "DK",
@@ -165,9 +165,9 @@ export const PASSPORTS = [
     "flag": "🇩🇰",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "IE",
@@ -178,9 +178,9 @@ export const PASSPORTS = [
     "flag": "🇮🇪",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "AT",
@@ -191,9 +191,9 @@ export const PASSPORTS = [
     "flag": "🇦🇹",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "BE",
@@ -204,9 +204,9 @@ export const PASSPORTS = [
     "flag": "🇧🇪",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "NO",
@@ -217,9 +217,9 @@ export const PASSPORTS = [
     "flag": "🇳🇴",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "CH",
@@ -230,9 +230,9 @@ export const PASSPORTS = [
     "flag": "🇨🇭",
     "coverColor": "#7f1d1d",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "PT",
@@ -243,9 +243,9 @@ export const PASSPORTS = [
     "flag": "🇵🇹",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "GB",
@@ -256,9 +256,9 @@ export const PASSPORTS = [
     "flag": "🇬🇧",
     "coverColor": "#1e1b4b",
     "continent": "Avrupa",
-    "rank": 36,
-    "accessScore": 143,
-    "score": 159.0
+    "rank": 34,
+    "accessScore": 153,
+    "score": 168.2
   },
   {
     "id": "US",
@@ -269,9 +269,9 @@ export const PASSPORTS = [
     "flag": "🇺🇸",
     "coverColor": "#172554",
     "continent": "Amerika",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 159.2
+    "rank": 13,
+    "accessScore": 154,
+    "score": 168.4
   },
   {
     "id": "CA",
@@ -282,9 +282,9 @@ export const PASSPORTS = [
     "flag": "🇨🇦",
     "coverColor": "#1e3a8a",
     "continent": "Amerika",
-    "rank": 5,
-    "accessScore": 145,
-    "score": 160.8
+    "rank": 4,
+    "accessScore": 155,
+    "score": 170.2
   },
   {
     "id": "AU",
@@ -295,9 +295,9 @@ export const PASSPORTS = [
     "flag": "🇦🇺",
     "coverColor": "#1e293b",
     "continent": "Okyanusya",
-    "rank": 5,
-    "accessScore": 145,
-    "score": 160.8
+    "rank": 4,
+    "accessScore": 155,
+    "score": 170.2
   },
   {
     "id": "NZ",
@@ -308,9 +308,9 @@ export const PASSPORTS = [
     "flag": "🇳🇿",
     "coverColor": "#1e293b",
     "continent": "Okyanusya",
-    "rank": 4,
-    "accessScore": 146,
-    "score": 161.2
+    "rank": 2,
+    "accessScore": 156,
+    "score": 170.6
   },
   {
     "id": "KR",
@@ -321,9 +321,9 @@ export const PASSPORTS = [
     "flag": "🇰🇷",
     "coverColor": "#14532d",
     "continent": "Asya",
-    "rank": 5,
-    "accessScore": 145,
-    "score": 160.6
+    "rank": 4,
+    "accessScore": 155,
+    "score": 170.0
   },
   {
     "id": "AE",
@@ -335,8 +335,8 @@ export const PASSPORTS = [
     "coverColor": "#14532d",
     "continent": "Asya",
     "rank": 1,
-    "accessScore": 150,
-    "score": 163.2
+    "accessScore": 161,
+    "score": 172.4
   },
   {
     "id": "GR",
@@ -347,9 +347,9 @@ export const PASSPORTS = [
     "flag": "🇬🇷",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "PL",
@@ -360,9 +360,9 @@ export const PASSPORTS = [
     "flag": "🇵🇱",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "CZ",
@@ -373,9 +373,9 @@ export const PASSPORTS = [
     "flag": "🇨🇿",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "HU",
@@ -386,9 +386,9 @@ export const PASSPORTS = [
     "flag": "🇭🇺",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "HR",
@@ -399,9 +399,9 @@ export const PASSPORTS = [
     "flag": "🇭🇷",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "RO",
@@ -412,9 +412,9 @@ export const PASSPORTS = [
     "flag": "🇷🇴",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "BG",
@@ -425,9 +425,9 @@ export const PASSPORTS = [
     "flag": "🇧🇬",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "CY",
@@ -438,9 +438,9 @@ export const PASSPORTS = [
     "flag": "🇨🇾",
     "coverColor": "#831843",
     "continent": "Avrupa",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "CL",
@@ -451,9 +451,9 @@ export const PASSPORTS = [
     "flag": "🇨🇱",
     "coverColor": "#1e3a8a",
     "continent": "Amerika",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "AR",
@@ -503,9 +503,9 @@ export const PASSPORTS = [
     "flag": "🇲🇾",
     "coverColor": "#7f1d1d",
     "continent": "Asya",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.6
+    "rank": 4,
+    "accessScore": 155,
+    "score": 170.2
   },
   {
     "id": "TH",
@@ -529,9 +529,9 @@ export const PASSPORTS = [
     "flag": "🇮🇱",
     "coverColor": "#1e3a8a",
     "continent": "Asya",
-    "rank": 14,
-    "accessScore": 144,
-    "score": 160.4
+    "rank": 13,
+    "accessScore": 154,
+    "score": 169.8
   },
   {
     "id": "QA",

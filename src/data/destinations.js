@@ -9481,162 +9481,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -9656,7 +9656,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -9666,7 +9666,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -10091,162 +10091,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -10266,7 +10266,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -10276,7 +10276,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -10396,162 +10396,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -10571,7 +10571,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -10581,7 +10581,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -10701,162 +10701,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -10876,7 +10876,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -10886,7 +10886,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -11006,162 +11006,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -11181,7 +11181,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -11191,7 +11191,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -11311,162 +11311,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -11486,7 +11486,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -11496,7 +11496,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -11616,162 +11616,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -11791,7 +11791,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -11801,7 +11801,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -11921,162 +11921,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -12096,7 +12096,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -12106,7 +12106,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -12226,162 +12226,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -12401,7 +12401,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -12411,7 +12411,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "90 Gün Vizesiz"
+        "note": "Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -12530,163 +12530,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "JP": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "DE": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "FR": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "IT": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "ES": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "FI": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "SE": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "NL": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "DK": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "IE": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "AT": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "BE": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "NO": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "CH": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "PT": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "GB": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "US": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "CA": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "AU": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "NZ": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "KR": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "AE": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "GR": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "PL": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "CZ": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "HU": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "HR": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "RO": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "BG": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "CY": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "CL": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -12705,8 +12705,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -12715,8 +12715,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "free",
-        "days": "1 Yıl",
-        "note": "1 Yıl Vizesiz"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -12836,162 +12836,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "JP": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "DE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "FR": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "IT": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "ES": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "FI": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "SE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "NL": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "DK": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "IE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "AT": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "BE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "NO": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "CH": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "PT": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "GB": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "US": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "CA": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "AU": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "NZ": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "KR": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "AE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "GR": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "PL": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "CZ": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "HU": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "HR": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "RO": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "BG": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "CY": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "CL": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -13011,7 +13011,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -13021,7 +13021,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "ASAN e-Vize"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -13139,164 +13139,164 @@ export const DESTINATIONS = [
         "note": "180 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "free",
@@ -13314,9 +13314,9 @@ export const DESTINATIONS = [
         "note": "180 Gün Vizesiz"
       },
       "MY": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "free",
@@ -13324,9 +13324,9 @@ export const DESTINATIONS = [
         "note": "180 Gün Vizesiz"
       },
       "IL": {
-        "status": "free",
-        "days": "180 Gün",
-        "note": "180 Gün Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "free",
@@ -13444,84 +13444,84 @@ export const DESTINATIONS = [
         "note": "İkili Anlaşma ile 30 Gün Vizesiz"
       },
       "SG": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "JP": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "DE": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "FR": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "IT": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "ES": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "FI": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "SE": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "NL": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "DK": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "IE": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "AT": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "BE": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "NO": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "CH": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "PT": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "GB": {
         "status": "required",
@@ -13534,24 +13534,24 @@ export const DESTINATIONS = [
         "note": "Vize"
       },
       "CA": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "AU": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "NZ": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "KR": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "AE": {
         "status": "free",
@@ -13559,49 +13559,49 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "GR": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "PL": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "CZ": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "HU": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "HR": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "RO": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "BG": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "CY": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "CL": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "AR": {
         "status": "evisa",
@@ -13619,9 +13619,9 @@ export const DESTINATIONS = [
         "note": "Elektronik Vize"
       },
       "MY": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "TH": {
         "status": "evisa",
@@ -13629,9 +13629,9 @@ export const DESTINATIONS = [
         "note": "Elektronik Vize"
       },
       "IL": {
-        "status": "evisa",
-        "days": "16 Gün",
-        "note": "Elektronik Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "QA": {
         "status": "evisa",
@@ -13750,163 +13750,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "JP": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "DE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "FR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "IT": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "ES": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "FI": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "SE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "NL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "DK": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "IE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "AT": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "BE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "NO": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "CH": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "PT": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "GB": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "US": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "CA": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "AU": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "NZ": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "KR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "AE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "GR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "PL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "CZ": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "HU": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "HR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "RO": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "BG": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "CY": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "CL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -13925,8 +13925,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -13935,8 +13935,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Minsk Havalimanından"
+        "days": "90 Gün",
+        "note": "Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -16496,162 +16496,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -16671,7 +16671,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -16681,7 +16681,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -16801,162 +16801,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -16976,7 +16976,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -16986,7 +16986,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -17106,162 +17106,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -17281,7 +17281,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -17291,7 +17291,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -17411,162 +17411,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -17586,7 +17586,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -17596,7 +17596,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -17716,162 +17716,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -17891,7 +17891,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -17901,7 +17901,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -18021,162 +18021,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -18196,7 +18196,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -18206,7 +18206,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -18326,162 +18326,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -18501,7 +18501,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -18511,7 +18511,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -18631,87 +18631,87 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "voa",
@@ -18721,72 +18721,72 @@ export const DESTINATIONS = [
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -18806,7 +18806,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -18816,7 +18816,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -18936,162 +18936,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -19111,7 +19111,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -19121,7 +19121,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -19241,162 +19241,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -19416,7 +19416,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -19426,7 +19426,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -19544,164 +19544,164 @@ export const DESTINATIONS = [
         "note": "Giriş Ücreti (E-Fee)"
       },
       "SG": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "evisa",
@@ -19719,9 +19719,9 @@ export const DESTINATIONS = [
         "note": "E-Fee"
       },
       "MY": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "evisa",
@@ -19729,9 +19729,9 @@ export const DESTINATIONS = [
         "note": "E-Fee"
       },
       "IL": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "E-Fee"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "evisa",
@@ -19851,162 +19851,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -20026,7 +20026,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -20036,7 +20036,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -20156,162 +20156,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -20331,7 +20331,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -20341,7 +20341,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -20460,163 +20460,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -20635,8 +20635,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -20645,8 +20645,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -20766,162 +20766,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -20941,7 +20941,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -20951,7 +20951,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -21071,162 +21071,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -21246,7 +21246,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -21256,7 +21256,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -21376,162 +21376,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -21551,7 +21551,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -21561,7 +21561,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -21681,162 +21681,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -21856,7 +21856,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -21866,7 +21866,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -21984,164 +21984,164 @@ export const DESTINATIONS = [
         "note": "İkili Anlaşma ile Vizesiz"
       },
       "SG": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "evisa",
@@ -22159,9 +22159,9 @@ export const DESTINATIONS = [
         "note": "Turist Kartı"
       },
       "MY": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "evisa",
@@ -22169,9 +22169,9 @@ export const DESTINATIONS = [
         "note": "Turist Kartı"
       },
       "IL": {
-        "status": "evisa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Turist Kartı"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "evisa",
@@ -22289,164 +22289,164 @@ export const DESTINATIONS = [
         "note": "E-Ticket Giriş Formu"
       },
       "SG": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "US": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "evisa",
@@ -22464,9 +22464,9 @@ export const DESTINATIONS = [
         "note": "E-Ticket"
       },
       "MY": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "evisa",
@@ -22474,9 +22474,9 @@ export const DESTINATIONS = [
         "note": "E-Ticket"
       },
       "IL": {
-        "status": "evisa",
-        "days": "30 Gün",
-        "note": "E-Ticket"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "evisa",
@@ -22596,162 +22596,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -22771,7 +22771,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -22781,7 +22781,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -22901,162 +22901,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -23076,7 +23076,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -23086,7 +23086,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -23206,162 +23206,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -23381,7 +23381,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -23391,7 +23391,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -23511,162 +23511,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -23686,7 +23686,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -23696,7 +23696,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -23816,162 +23816,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -23991,7 +23991,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -24001,7 +24001,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -24120,163 +24120,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -24295,8 +24295,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -24305,8 +24305,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "free",
-        "days": "180 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -24425,163 +24425,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -24600,8 +24600,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -24610,8 +24610,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "free",
-        "days": "21 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -24731,162 +24731,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -24906,7 +24906,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -24916,7 +24916,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -25036,162 +25036,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -25211,7 +25211,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -25221,7 +25221,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -25340,163 +25340,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -25515,8 +25515,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -25525,8 +25525,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "free",
-        "days": "42 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -25645,163 +25645,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -25820,8 +25820,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -25830,8 +25830,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -27169,164 +27169,164 @@ export const DESTINATIONS = [
         "note": "90 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "free",
@@ -27344,9 +27344,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "free",
@@ -27354,9 +27354,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "free",
@@ -27479,159 +27479,159 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "JP": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -27659,9 +27659,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize / e-VoA"
       },
       "IL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-VoA"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -28084,164 +28084,164 @@ export const DESTINATIONS = [
         "note": "30 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "free",
@@ -28259,9 +28259,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "free",
@@ -28269,9 +28269,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "free",
@@ -28999,114 +28999,114 @@ export const DESTINATIONS = [
         "note": "90 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
         "status": "free",
@@ -29114,49 +29114,49 @@ export const DESTINATIONS = [
         "note": "Körfez"
       },
       "GR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "free",
@@ -29174,9 +29174,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "free",
@@ -29184,9 +29184,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "free",
@@ -29304,114 +29304,114 @@ export const DESTINATIONS = [
         "note": "14 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
         "status": "free",
@@ -29419,49 +29419,49 @@ export const DESTINATIONS = [
         "note": "Körfez"
       },
       "GR": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "free",
@@ -29479,9 +29479,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "free",
@@ -29489,9 +29489,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
-        "days": "14 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "free",
@@ -29610,113 +29610,113 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
         "status": "free",
@@ -29725,48 +29725,48 @@ export const DESTINATIONS = [
       },
       "GR": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -29785,8 +29785,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -29795,8 +29795,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "evisa",
-        "days": "14 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -29915,113 +29915,113 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
         "status": "free",
@@ -30030,48 +30030,48 @@ export const DESTINATIONS = [
       },
       "GR": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -30090,8 +30090,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -30100,8 +30100,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Vize"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -30219,164 +30219,164 @@ export const DESTINATIONS = [
         "note": "90 Gün Vizesiz"
       },
       "SG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -30394,9 +30394,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "MY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -30404,9 +30404,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "IL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -30524,164 +30524,164 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize (Ücretsiz)"
       },
       "SG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -30699,9 +30699,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "MY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -30709,9 +30709,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "IL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -30830,163 +30830,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GR": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -31005,8 +31005,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -31015,8 +31015,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "ETA-IL"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -31139,9 +31139,9 @@ export const DESTINATIONS = [
         "note": "30 Gün Vizesiz"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
         "status": "free",
@@ -31164,84 +31164,84 @@ export const DESTINATIONS = [
         "note": "15 Gün Muafiyet"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
         "status": "free",
@@ -31249,49 +31249,49 @@ export const DESTINATIONS = [
         "note": "30 Gün Vizesiz"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "required",
@@ -31309,9 +31309,9 @@ export const DESTINATIONS = [
         "note": "Konsolosluk Vizesi"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "required",
@@ -31319,9 +31319,9 @@ export const DESTINATIONS = [
         "note": "Konsolosluk Vizesi"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "required",
@@ -31439,164 +31439,164 @@ export const DESTINATIONS = [
         "note": "90 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "free",
@@ -31614,9 +31614,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "free",
@@ -31624,9 +31624,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "free",
@@ -31744,164 +31744,164 @@ export const DESTINATIONS = [
         "note": "30 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "free",
@@ -31919,9 +31919,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "free",
@@ -31929,9 +31929,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "free",
@@ -32356,7 +32356,7 @@ export const DESTINATIONS = [
       "SG": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "JP": {
         "status": "voa",
@@ -32366,97 +32366,97 @@ export const DESTINATIONS = [
       "DE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "FR": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "IT": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "ES": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "FI": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "SE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "NL": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "DK": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "IE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "AT": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "BE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "NO": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "CH": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "PT": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "GB": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "US": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "CA": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "AU": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "NZ": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "KR": {
         "status": "voa",
@@ -32471,47 +32471,47 @@ export const DESTINATIONS = [
       "GR": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "PL": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "CZ": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "HU": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "HR": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "RO": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "BG": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "CY": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "CL": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -32531,7 +32531,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -32541,7 +32541,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online e-Tourist Visa"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -32660,163 +32660,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GR": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -32835,8 +32835,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -32845,8 +32845,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -32964,164 +32964,164 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize (50 USD)"
       },
       "SG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -33139,9 +33139,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "MY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -33149,9 +33149,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "IL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -33271,162 +33271,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "JP": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "DE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "FR": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "IT": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "ES": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "FI": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "SE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "NL": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "DK": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "IE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "AT": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "BE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "NO": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "CH": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "PT": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "GB": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "US": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "CA": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "AU": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "NZ": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "KR": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "AE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "GR": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "PL": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "CZ": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "HU": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "HR": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "RO": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "BG": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "CY": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "CL": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -33446,7 +33446,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -33456,7 +33456,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "Online ETA"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -33574,164 +33574,164 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "SG": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -33749,9 +33749,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "MY": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -33759,9 +33759,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "IL": {
-        "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -33881,162 +33881,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "JP": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "DE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "FR": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "IT": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "ES": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "FI": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "SE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "NL": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "DK": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "IE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "AT": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "BE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "NO": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "CH": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "PT": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "GB": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "US": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "CA": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "AU": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "NZ": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "KR": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "AE": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "GR": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "PL": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "CZ": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "HU": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "HR": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "RO": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "BG": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "CY": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "CL": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -34056,7 +34056,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -34066,7 +34066,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "evisa",
         "days": "30 Gün",
-        "note": "e-Vize (Günlük 100 USD Sürdürülebilirlik Harcı)"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -34184,164 +34184,164 @@ export const DESTINATIONS = [
         "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
       },
       "SG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -34359,9 +34359,9 @@ export const DESTINATIONS = [
         "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
       },
       "MY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -34369,9 +34369,9 @@ export const DESTINATIONS = [
         "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
       },
       "IL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Tüm Dünyaya Ücretsiz Kapıda Vize"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -34490,163 +34490,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GR": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -34665,8 +34665,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -34675,8 +34675,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "evisa",
-        "days": "28 Gün",
-        "note": "Online e-Visa"
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -34794,164 +34794,164 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize / e-Vize (30 USD)"
       },
       "SG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -34969,9 +34969,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize / e-Vize (30 USD)"
       },
       "MY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -34979,9 +34979,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize / e-Vize (30 USD)"
       },
       "IL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -35099,164 +35099,164 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize / e-Vize"
       },
       "SG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -35274,9 +35274,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize / e-Vize"
       },
       "MY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -35284,9 +35284,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize / e-Vize"
       },
       "IL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -35404,164 +35404,164 @@ export const DESTINATIONS = [
         "note": "30 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "free",
@@ -35579,9 +35579,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "free",
@@ -35589,9 +35589,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "free",
@@ -35709,164 +35709,164 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize (30 USD)"
       },
       "SG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -35884,9 +35884,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize (30 USD)"
       },
       "MY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -35894,9 +35894,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize (30 USD)"
       },
       "IL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -36014,84 +36014,84 @@ export const DESTINATIONS = [
         "note": "90 Gün Vizesiz"
       },
       "SG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "GB": {
         "status": "required",
@@ -36104,74 +36104,74 @@ export const DESTINATIONS = [
         "note": "Rehber Zorunlu"
       },
       "CA": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -36189,9 +36189,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize / e-Vize"
       },
       "MY": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -36199,9 +36199,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize / e-Vize"
       },
       "IL": {
-        "status": "voa",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Vize"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -36319,164 +36319,164 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "SG": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -36494,9 +36494,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "MY": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -36504,9 +36504,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "IL": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Kapıda Vize"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -36624,164 +36624,164 @@ export const DESTINATIONS = [
         "note": "Konsolosluk Vizesi / Güvenlik Onayı"
       },
       "SG": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "required",
@@ -36799,9 +36799,9 @@ export const DESTINATIONS = [
         "note": "Konsolosluk Vizesi / Güvenlik Onayı"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "required",
@@ -36809,9 +36809,9 @@ export const DESTINATIONS = [
         "note": "Konsolosluk Vizesi / Güvenlik Onayı"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi / Güvenlik Onayı"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "required",
@@ -36929,164 +36929,164 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "SG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "required",
@@ -37104,9 +37104,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "required",
@@ -37114,9 +37114,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "required",
@@ -37234,164 +37234,164 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "SG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "required",
@@ -37409,9 +37409,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "required",
@@ -37419,9 +37419,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "required",
@@ -37539,164 +37539,164 @@ export const DESTINATIONS = [
         "note": "Vizesiz (İsrail kontrol noktasından)"
       },
       "SG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "free",
@@ -37714,9 +37714,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "free",
@@ -37724,9 +37724,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "free",
@@ -37844,164 +37844,164 @@ export const DESTINATIONS = [
         "note": "30 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "free",
@@ -38019,9 +38019,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "free",
@@ -38029,9 +38029,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "free",
@@ -38149,164 +38149,164 @@ export const DESTINATIONS = [
         "note": "30 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "free",
@@ -38324,9 +38324,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "free",
@@ -38334,9 +38334,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "free",
@@ -38454,164 +38454,164 @@ export const DESTINATIONS = [
         "note": "90 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "free",
@@ -38629,9 +38629,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "free",
@@ -38639,9 +38639,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
-        "days": "60 Gün",
-        "note": "Vizesiz"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "free",
@@ -38759,164 +38759,164 @@ export const DESTINATIONS = [
         "note": "30 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "free",
@@ -38934,9 +38934,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "free",
@@ -38944,9 +38944,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "free",
@@ -39064,164 +39064,164 @@ export const DESTINATIONS = [
         "note": "Davetiye ve Vize Zorunlu"
       },
       "SG": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "required",
@@ -39239,9 +39239,9 @@ export const DESTINATIONS = [
         "note": "Davetiye ve Vize Zorunlu"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "required",
@@ -39249,9 +39249,9 @@ export const DESTINATIONS = [
         "note": "Davetiye ve Vize Zorunlu"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "Davetiye ve Vize Zorunlu"
+        "status": "evisa",
+        "days": "30 Gün",
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "required",
@@ -39369,164 +39369,164 @@ export const DESTINATIONS = [
         "note": "30 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "JP": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "DE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "FR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "IT": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "ES": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "FI": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "SE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "NL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "DK": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "IE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AT": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "BE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "NO": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CH": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "PT": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "GB": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "US": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CA": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AU": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "NZ": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "KR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AE": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "GR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "PL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CZ": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "HU": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "HR": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "RO": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "BG": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CY": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "CL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "AR": {
         "status": "free",
@@ -39544,9 +39544,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "TH": {
         "status": "free",
@@ -39554,9 +39554,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
+        "status": "evisa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Online e-Vize"
       },
       "QA": {
         "status": "free",
@@ -39979,164 +39979,164 @@ export const DESTINATIONS = [
         "note": "90 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "free",
@@ -40154,9 +40154,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "free",
@@ -40164,9 +40164,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "free",
@@ -40284,164 +40284,164 @@ export const DESTINATIONS = [
         "note": "90 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "free",
@@ -40459,9 +40459,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "free",
@@ -40469,9 +40469,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "free",
@@ -40589,164 +40589,164 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "SG": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "required",
@@ -40764,9 +40764,9 @@ export const DESTINATIONS = [
         "note": "Konsolosluk Vizesi"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "required",
@@ -40774,9 +40774,9 @@ export const DESTINATIONS = [
         "note": "Konsolosluk Vizesi"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "Konsolosluk Vizesi"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "required",
@@ -40894,164 +40894,164 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "SG": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "required",
@@ -41069,9 +41069,9 @@ export const DESTINATIONS = [
         "note": "e-Vize"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "required",
@@ -41079,9 +41079,9 @@ export const DESTINATIONS = [
         "note": "e-Vize"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "e-Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "required",
@@ -41199,164 +41199,164 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "SG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "required",
@@ -41374,9 +41374,9 @@ export const DESTINATIONS = [
         "note": "Vize"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "required",
@@ -41384,9 +41384,9 @@ export const DESTINATIONS = [
         "note": "Vize"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "required",
@@ -41504,164 +41504,164 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "SG": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -41679,9 +41679,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "MY": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -41689,9 +41689,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "IL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -41809,164 +41809,164 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "SG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -41984,9 +41984,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "MY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -41994,9 +41994,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "IL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -42114,164 +42114,164 @@ export const DESTINATIONS = [
         "note": "Elektronik Seyahat İzni (eTA)"
       },
       "SG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -42289,9 +42289,9 @@ export const DESTINATIONS = [
         "note": "Elektronik Seyahat İzni (eTA)"
       },
       "MY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -42299,9 +42299,9 @@ export const DESTINATIONS = [
         "note": "Elektronik Seyahat İzni (eTA)"
       },
       "IL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Elektronik Seyahat İzni (eTA)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -42420,163 +42420,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -42595,8 +42595,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -42605,8 +42605,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -42724,164 +42724,164 @@ export const DESTINATIONS = [
         "note": "Online e-Visa (50 USD)"
       },
       "SG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -42899,9 +42899,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa (50 USD)"
       },
       "MY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -42909,9 +42909,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa (50 USD)"
       },
       "IL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa (50 USD)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -43031,162 +43031,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -43206,7 +43206,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -43216,7 +43216,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (50 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -43336,162 +43336,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -43511,7 +43511,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -43521,7 +43521,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -43641,162 +43641,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -43816,7 +43816,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -43826,7 +43826,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -43944,164 +43944,164 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "SG": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -44119,9 +44119,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "MY": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -44129,9 +44129,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "IL": {
-        "status": "evisa",
-        "days": "31 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -44249,164 +44249,164 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "SG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "required",
@@ -44424,9 +44424,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "required",
@@ -44434,9 +44434,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "required",
@@ -44554,164 +44554,164 @@ export const DESTINATIONS = [
         "note": "Vizesiz (Online Seyahat Onayı)"
       },
       "SG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "free",
@@ -44729,9 +44729,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz (Online Seyahat Onayı)"
       },
       "MY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "free",
@@ -44739,9 +44739,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz (Online Seyahat Onayı)"
       },
       "IL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz (Online Seyahat Onayı)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "free",
@@ -44859,164 +44859,164 @@ export const DESTINATIONS = [
         "note": "90 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "free",
@@ -45034,9 +45034,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "free",
@@ -45044,9 +45044,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "free",
@@ -45165,162 +45165,162 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "US": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
@@ -45340,7 +45340,7 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
@@ -45350,7 +45350,7 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "voa",
-        "days": "60 Gün",
+        "days": "30 Gün",
         "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
@@ -45470,163 +45470,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -45645,8 +45645,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -45655,8 +45655,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "voa",
-        "days": "45 Gün",
-        "note": "Kapıda Vize (30 EUR)"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -46080,163 +46080,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -46255,8 +46255,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -46265,8 +46265,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -46384,164 +46384,164 @@ export const DESTINATIONS = [
         "note": "90 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "free",
@@ -46559,9 +46559,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "free",
@@ -46569,9 +46569,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "free",
@@ -46691,162 +46691,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -46866,7 +46866,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -46876,7 +46876,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (30 USD)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -46994,164 +46994,164 @@ export const DESTINATIONS = [
         "note": "Turizm Vize Muafiyeti"
       },
       "SG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "free",
@@ -47169,9 +47169,9 @@ export const DESTINATIONS = [
         "note": "Turizm Vize Muafiyeti"
       },
       "MY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "free",
@@ -47179,9 +47179,9 @@ export const DESTINATIONS = [
         "note": "Turizm Vize Muafiyeti"
       },
       "IL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Turizm Vize Muafiyeti"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "free",
@@ -47299,164 +47299,164 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "SG": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -47474,9 +47474,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "MY": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -47484,9 +47484,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "IL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -47604,164 +47604,164 @@ export const DESTINATIONS = [
         "note": "Turizm Vizesiz (Yılda 90 Gün)"
       },
       "SG": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "free",
@@ -47779,9 +47779,9 @@ export const DESTINATIONS = [
         "note": "Turizm Vizesiz (Yılda 90 Gün)"
       },
       "MY": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "free",
@@ -47789,9 +47789,9 @@ export const DESTINATIONS = [
         "note": "Turizm Vizesiz (Yılda 90 Gün)"
       },
       "IL": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Turizm Vizesiz (Yılda 90 Gün)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "free",
@@ -47909,164 +47909,164 @@ export const DESTINATIONS = [
         "note": "Vize Muafiyeti (2024)"
       },
       "SG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "free",
@@ -48084,9 +48084,9 @@ export const DESTINATIONS = [
         "note": "Vize Muafiyeti (2024)"
       },
       "MY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "free",
@@ -48094,9 +48094,9 @@ export const DESTINATIONS = [
         "note": "Vize Muafiyeti (2024)"
       },
       "IL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vize Muafiyeti (2024)"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "free",
@@ -48214,164 +48214,164 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "SG": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -48389,9 +48389,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "MY": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -48399,9 +48399,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "IL": {
-        "status": "evisa",
-        "days": "44 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -48519,164 +48519,164 @@ export const DESTINATIONS = [
         "note": "30 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "free",
@@ -48694,9 +48694,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "free",
@@ -48704,9 +48704,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Vizesiz"
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "free",
@@ -48824,164 +48824,164 @@ export const DESTINATIONS = [
         "note": "Online e-Visa / VoA"
       },
       "SG": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -48999,9 +48999,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa / VoA"
       },
       "MY": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -49009,9 +49009,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa / VoA"
       },
       "IL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa / VoA"
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -49129,164 +49129,164 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "SG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "required",
@@ -49304,9 +49304,9 @@ export const DESTINATIONS = [
         "note": "Vize"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "required",
@@ -49314,9 +49314,9 @@ export const DESTINATIONS = [
         "note": "Vize"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "required",
@@ -49434,164 +49434,164 @@ export const DESTINATIONS = [
         "note": "90 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "free",
@@ -49609,9 +49609,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "free",
@@ -49619,9 +49619,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "free",
@@ -49739,164 +49739,164 @@ export const DESTINATIONS = [
         "note": "e-Visa"
       },
       "SG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -49914,9 +49914,9 @@ export const DESTINATIONS = [
         "note": "e-Visa"
       },
       "MY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -49924,9 +49924,9 @@ export const DESTINATIONS = [
         "note": "e-Visa"
       },
       "IL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -50044,164 +50044,164 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "SG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -50219,9 +50219,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "MY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -50229,9 +50229,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "IL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -50349,164 +50349,164 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "SG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -50524,9 +50524,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "MY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -50534,9 +50534,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "IL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -50654,164 +50654,164 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "SG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "required",
@@ -50829,9 +50829,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "required",
@@ -50839,9 +50839,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "required",
@@ -50959,164 +50959,164 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "SG": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -51134,9 +51134,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "MY": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -51144,9 +51144,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "IL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "Online e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -51264,164 +51264,164 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "SG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "required",
@@ -51439,9 +51439,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "required",
@@ -51449,9 +51449,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "required",
@@ -51569,164 +51569,164 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "SG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "required",
@@ -51744,9 +51744,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "required",
@@ -51754,9 +51754,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "required",
@@ -51874,164 +51874,164 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "SG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "required",
@@ -52049,9 +52049,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "required",
@@ -52059,9 +52059,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "required",
@@ -52179,164 +52179,164 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "SG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "required",
@@ -52354,9 +52354,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "required",
@@ -52364,9 +52364,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "required",
@@ -52484,164 +52484,164 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "SG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -52659,9 +52659,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "MY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -52669,9 +52669,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "IL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -52789,164 +52789,164 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "SG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -52964,9 +52964,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "MY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -52974,9 +52974,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "IL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -53095,163 +53095,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -53270,8 +53270,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -53280,8 +53280,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "voa",
-        "days": "90 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -53401,162 +53401,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -53576,7 +53576,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -53586,7 +53586,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize / e-Visa"
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -53704,164 +53704,164 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "SG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "required",
@@ -53879,9 +53879,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "required",
@@ -53889,9 +53889,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "required",
@@ -54009,164 +54009,164 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "SG": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -54184,9 +54184,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "MY": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -54194,9 +54194,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "IL": {
-        "status": "evisa",
-        "days": "15 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -54314,164 +54314,164 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "SG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -54489,9 +54489,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "MY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -54499,9 +54499,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "IL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -54621,162 +54621,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "voa",
@@ -54796,7 +54796,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "voa",
@@ -54806,7 +54806,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "voa",
         "days": "30 Gün",
-        "note": "Kapıda Vize (55 EUR)"
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "voa",
@@ -54924,164 +54924,164 @@ export const DESTINATIONS = [
         "note": "90 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "free",
@@ -55099,9 +55099,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "free",
@@ -55109,9 +55109,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
-        "days": "90 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "free",
@@ -55229,164 +55229,164 @@ export const DESTINATIONS = [
         "note": "EASE Kayıt Formu"
       },
       "SG": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -55404,9 +55404,9 @@ export const DESTINATIONS = [
         "note": "EASE Kayıt Formu"
       },
       "MY": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -55414,9 +55414,9 @@ export const DESTINATIONS = [
         "note": "EASE Kayıt Formu"
       },
       "IL": {
-        "status": "evisa",
+        "status": "voa",
         "days": "30 Gün",
-        "note": "EASE Kayıt Formu"
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -55534,164 +55534,164 @@ export const DESTINATIONS = [
         "note": "15 Gün Vizesiz"
       },
       "SG": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "free",
@@ -55709,9 +55709,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "MY": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "free",
@@ -55719,9 +55719,9 @@ export const DESTINATIONS = [
         "note": "Vizesiz"
       },
       "IL": {
-        "status": "free",
-        "days": "15 Gün",
-        "note": "Vizesiz"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "free",
@@ -55839,164 +55839,164 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "SG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "JP": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "ES": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "FI": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "SE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "DK": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "IE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CH": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PT": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GB": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "US": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CA": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "NZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "KR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AE": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "GR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "PL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CZ": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HU": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "HR": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "RO": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "BG": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "CL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "AR": {
         "status": "evisa",
@@ -56014,9 +56014,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "MY": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "TH": {
         "status": "evisa",
@@ -56024,9 +56024,9 @@ export const DESTINATIONS = [
         "note": "Online e-Visa"
       },
       "IL": {
-        "status": "evisa",
-        "days": "90 Gün",
-        "note": "Online e-Visa"
+        "status": "voa",
+        "days": "30 Gün",
+        "note": "Kapıda Vize / e-Vize"
       },
       "QA": {
         "status": "evisa",
@@ -56755,163 +56755,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -56930,8 +56930,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -56940,8 +56940,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "free",
-        "days": "120 Gün",
-        "note": "120 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -57059,164 +57059,164 @@ export const DESTINATIONS = [
         "note": "Online Easy Visitor e-Visa"
       },
       "SG": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "US": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "evisa",
@@ -57234,9 +57234,9 @@ export const DESTINATIONS = [
         "note": "Online Easy Visitor e-Visa"
       },
       "MY": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "evisa",
@@ -57244,9 +57244,9 @@ export const DESTINATIONS = [
         "note": "Online Easy Visitor e-Visa"
       },
       "IL": {
-        "status": "evisa",
-        "days": "60 Gün",
-        "note": "Online Easy Visitor e-Visa"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "evisa",
@@ -57364,164 +57364,164 @@ export const DESTINATIONS = [
         "note": "Giriş İzni (Kapıda)"
       },
       "SG": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "voa",
@@ -57539,9 +57539,9 @@ export const DESTINATIONS = [
         "note": "Giriş İzni (Kapıda)"
       },
       "MY": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "voa",
@@ -57549,9 +57549,9 @@ export const DESTINATIONS = [
         "note": "Giriş İzni (Kapıda)"
       },
       "IL": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Giriş İzni (Kapıda)"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "voa",
@@ -57670,163 +57670,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -57845,8 +57845,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -57855,8 +57855,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -57974,164 +57974,164 @@ export const DESTINATIONS = [
         "note": "Giriş İzni (Kapıda 60 Gün)"
       },
       "SG": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "US": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "voa",
@@ -58149,9 +58149,9 @@ export const DESTINATIONS = [
         "note": "Giriş İzni (Kapıda 60 Gün)"
       },
       "MY": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "voa",
@@ -58159,9 +58159,9 @@ export const DESTINATIONS = [
         "note": "Giriş İzni (Kapıda 60 Gün)"
       },
       "IL": {
-        "status": "voa",
-        "days": "60 Gün",
-        "note": "Giriş İzni (Kapıda 60 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "voa",
@@ -58279,164 +58279,164 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "SG": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "US": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "voa",
@@ -58454,9 +58454,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "MY": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "voa",
@@ -58464,9 +58464,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "IL": {
-        "status": "voa",
-        "days": "31 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "voa",
@@ -58586,162 +58586,162 @@ export const DESTINATIONS = [
       "SG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -58761,7 +58761,7 @@ export const DESTINATIONS = [
       "MY": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -58771,7 +58771,7 @@ export const DESTINATIONS = [
       "IL": {
         "status": "free",
         "days": "90 Gün",
-        "note": "Vizesiz"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -58890,163 +58890,163 @@ export const DESTINATIONS = [
       },
       "SG": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "US": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "free",
@@ -59065,8 +59065,8 @@ export const DESTINATIONS = [
       },
       "MY": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "free",
@@ -59075,8 +59075,8 @@ export const DESTINATIONS = [
       },
       "IL": {
         "status": "free",
-        "days": "30 Gün",
-        "note": "30 Gün Vizesiz"
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "free",
@@ -59194,164 +59194,164 @@ export const DESTINATIONS = [
         "note": "Ücretsiz Kapıda Vize (30 Gün)"
       },
       "SG": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "US": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "voa",
@@ -59369,9 +59369,9 @@ export const DESTINATIONS = [
         "note": "Ücretsiz Kapıda Vize (30 Gün)"
       },
       "MY": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "voa",
@@ -59379,9 +59379,9 @@ export const DESTINATIONS = [
         "note": "Ücretsiz Kapıda Vize (30 Gün)"
       },
       "IL": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Ücretsiz Kapıda Vize (30 Gün)"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "voa",
@@ -59499,164 +59499,164 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "SG": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "US": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "voa",
@@ -59674,9 +59674,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "MY": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "voa",
@@ -59684,9 +59684,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "IL": {
-        "status": "voa",
+        "status": "free",
         "days": "90 Gün",
-        "note": "Kapıda Vize"
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "voa",
@@ -59804,164 +59804,164 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "SG": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "US": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "voa",
@@ -59979,9 +59979,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "MY": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "voa",
@@ -59989,9 +59989,9 @@ export const DESTINATIONS = [
         "note": "Kapıda Vize"
       },
       "IL": {
-        "status": "voa",
-        "days": "30 Gün",
-        "note": "Kapıda Vize"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "voa",
@@ -60109,164 +60109,164 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "SG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "JP": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "ES": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "FI": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "SE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "DK": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "IE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CH": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PT": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GB": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "US": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CA": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "NZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "KR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AE": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "GR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "PL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CZ": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HU": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "HR": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "RO": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "BG": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "CL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "AR": {
         "status": "required",
@@ -60284,9 +60284,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "MY": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "TH": {
         "status": "required",
@@ -60294,9 +60294,9 @@ export const DESTINATIONS = [
         "note": "Vize Gerekli"
       },
       "IL": {
-        "status": "required",
-        "days": null,
-        "note": "Vize Gerekli"
+        "status": "free",
+        "days": "90 Gün",
+        "note": "90 Gün Vizesiz"
       },
       "QA": {
         "status": "required",

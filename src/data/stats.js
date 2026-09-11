@@ -17,7 +17,7 @@ export const PASSPORT_STATS = {
     "total": 198,
     "accessScore": 149,
     "score": 162.0,
-    "rank": 2
+    "rank": 35
   },
   "TR_GRI": {
     "free": 121,
@@ -27,327 +27,327 @@ export const PASSPORT_STATS = {
     "total": 198,
     "accessScore": 149,
     "score": 162.0,
-    "rank": 2
+    "rank": 35
   },
   "SG": {
-    "free": 117,
-    "evisa": 37,
-    "voa": 28,
-    "required": 16,
+    "free": 103,
+    "evisa": 42,
+    "voa": 53,
+    "required": 0,
     "total": 198,
-    "accessScore": 145,
-    "score": 161.6,
-    "rank": 5
+    "accessScore": 156,
+    "score": 170.6,
+    "rank": 2
   },
   "JP": {
-    "free": 115,
-    "evisa": 36,
-    "voa": 30,
-    "required": 17,
+    "free": 101,
+    "evisa": 43,
+    "voa": 54,
+    "required": 0,
     "total": 198,
-    "accessScore": 145,
-    "score": 160.6,
-    "rank": 5
-  },
-  "DE": {
-    "free": 116,
-    "evisa": 37,
-    "voa": 29,
-    "required": 16,
-    "total": 198,
-    "accessScore": 145,
-    "score": 161.4,
-    "rank": 5
-  },
-  "FR": {
-    "free": 116,
-    "evisa": 37,
-    "voa": 29,
-    "required": 16,
-    "total": 198,
-    "accessScore": 145,
-    "score": 161.4,
-    "rank": 5
-  },
-  "IT": {
-    "free": 116,
-    "evisa": 37,
-    "voa": 29,
-    "required": 16,
-    "total": 198,
-    "accessScore": 145,
-    "score": 161.4,
-    "rank": 5
-  },
-  "ES": {
-    "free": 116,
-    "evisa": 37,
-    "voa": 29,
-    "required": 16,
-    "total": 198,
-    "accessScore": 145,
-    "score": 161.4,
-    "rank": 5
-  },
-  "FI": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
-    "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
-  },
-  "SE": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
-    "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
-  },
-  "NL": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
-    "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
-  },
-  "DK": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
-    "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
-  },
-  "IE": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
-    "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
-  },
-  "AT": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
-    "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
-  },
-  "BE": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
-    "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
-  },
-  "NO": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
-    "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
-  },
-  "CH": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
-    "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
-  },
-  "PT": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
-    "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
-  },
-  "GB": {
-    "free": 115,
-    "evisa": 36,
-    "voa": 28,
-    "required": 19,
-    "total": 198,
-    "accessScore": 143,
-    "score": 159.0,
-    "rank": 36
-  },
-  "US": {
-    "free": 115,
-    "evisa": 35,
-    "voa": 29,
-    "required": 19,
-    "total": 198,
-    "accessScore": 144,
-    "score": 159.2,
-    "rank": 14
-  },
-  "CA": {
-    "free": 116,
-    "evisa": 36,
-    "voa": 29,
-    "required": 17,
-    "total": 198,
-    "accessScore": 145,
-    "score": 160.8,
-    "rank": 5
-  },
-  "AU": {
-    "free": 116,
-    "evisa": 36,
-    "voa": 29,
-    "required": 17,
-    "total": 198,
-    "accessScore": 145,
-    "score": 160.8,
-    "rank": 5
-  },
-  "NZ": {
-    "free": 117,
-    "evisa": 35,
-    "voa": 29,
-    "required": 17,
-    "total": 198,
-    "accessScore": 146,
-    "score": 161.2,
+    "accessScore": 155,
+    "score": 170.0,
     "rank": 4
   },
-  "KR": {
-    "free": 115,
-    "evisa": 36,
-    "voa": 30,
-    "required": 17,
+  "DE": {
+    "free": 102,
+    "evisa": 43,
+    "voa": 53,
+    "required": 0,
     "total": 198,
-    "accessScore": 145,
-    "score": 160.6,
-    "rank": 5
+    "accessScore": 155,
+    "score": 170.2,
+    "rank": 4
+  },
+  "FR": {
+    "free": 102,
+    "evisa": 43,
+    "voa": 53,
+    "required": 0,
+    "total": 198,
+    "accessScore": 155,
+    "score": 170.2,
+    "rank": 4
+  },
+  "IT": {
+    "free": 102,
+    "evisa": 43,
+    "voa": 53,
+    "required": 0,
+    "total": 198,
+    "accessScore": 155,
+    "score": 170.2,
+    "rank": 4
+  },
+  "ES": {
+    "free": 102,
+    "evisa": 43,
+    "voa": 53,
+    "required": 0,
+    "total": 198,
+    "accessScore": 155,
+    "score": 170.2,
+    "rank": 4
+  },
+  "FI": {
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
+    "total": 198,
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
+  },
+  "SE": {
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
+    "total": 198,
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
+  },
+  "NL": {
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
+    "total": 198,
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
+  },
+  "DK": {
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
+    "total": 198,
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
+  },
+  "IE": {
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
+    "total": 198,
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
+  },
+  "AT": {
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
+    "total": 198,
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
+  },
+  "BE": {
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
+    "total": 198,
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
+  },
+  "NO": {
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
+    "total": 198,
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
+  },
+  "CH": {
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
+    "total": 198,
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
+  },
+  "PT": {
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
+    "total": 198,
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
+  },
+  "GB": {
+    "free": 100,
+    "evisa": 43,
+    "voa": 53,
+    "required": 2,
+    "total": 198,
+    "accessScore": 153,
+    "score": 168.2,
+    "rank": 34
+  },
+  "US": {
+    "free": 100,
+    "evisa": 42,
+    "voa": 54,
+    "required": 2,
+    "total": 198,
+    "accessScore": 154,
+    "score": 168.4,
+    "rank": 13
+  },
+  "CA": {
+    "free": 102,
+    "evisa": 43,
+    "voa": 53,
+    "required": 0,
+    "total": 198,
+    "accessScore": 155,
+    "score": 170.2,
+    "rank": 4
+  },
+  "AU": {
+    "free": 102,
+    "evisa": 43,
+    "voa": 53,
+    "required": 0,
+    "total": 198,
+    "accessScore": 155,
+    "score": 170.2,
+    "rank": 4
+  },
+  "NZ": {
+    "free": 103,
+    "evisa": 42,
+    "voa": 53,
+    "required": 0,
+    "total": 198,
+    "accessScore": 156,
+    "score": 170.6,
+    "rank": 2
+  },
+  "KR": {
+    "free": 101,
+    "evisa": 43,
+    "voa": 54,
+    "required": 0,
+    "total": 198,
+    "accessScore": 155,
+    "score": 170.0,
+    "rank": 4
   },
   "AE": {
-    "free": 120,
-    "evisa": 32,
-    "voa": 30,
-    "required": 16,
+    "free": 107,
+    "evisa": 37,
+    "voa": 54,
+    "required": 0,
     "total": 198,
-    "accessScore": 150,
-    "score": 163.2,
+    "accessScore": 161,
+    "score": 172.4,
     "rank": 1
   },
   "GR": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
     "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
   },
   "PL": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
     "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
   },
   "CZ": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
     "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
   },
   "HU": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
     "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
   },
   "HR": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
     "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
   },
   "RO": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
     "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
   },
   "BG": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
     "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
   },
   "CY": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
     "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
   },
   "CL": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
     "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
   },
   "AR": {
     "free": 107,
@@ -380,14 +380,14 @@ export const PASSPORT_STATS = {
     "rank": 38
   },
   "MY": {
-    "free": 116,
-    "evisa": 37,
-    "voa": 28,
-    "required": 17,
+    "free": 102,
+    "evisa": 43,
+    "voa": 53,
+    "required": 0,
     "total": 198,
-    "accessScore": 144,
-    "score": 160.6,
-    "rank": 14
+    "accessScore": 155,
+    "score": 170.2,
+    "rank": 4
   },
   "TH": {
     "free": 78,
@@ -400,14 +400,14 @@ export const PASSPORT_STATS = {
     "rank": 52
   },
   "IL": {
-    "free": 115,
-    "evisa": 37,
-    "voa": 29,
-    "required": 17,
+    "free": 101,
+    "evisa": 44,
+    "voa": 53,
+    "required": 0,
     "total": 198,
-    "accessScore": 144,
-    "score": 160.4,
-    "rank": 14
+    "accessScore": 154,
+    "score": 169.8,
+    "rank": 13
   },
   "QA": {
     "free": 78,

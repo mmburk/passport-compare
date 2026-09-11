@@ -126,19 +126,42 @@ for code, name_tr, name_en, flag in schengen_destinations:
         'continent': 'Avrupa', 'isSchengen': True, 'visas': visas
     })
 
-# Helper to populate other countries
+# Helper to populate other countries with realistic global access rules
 def create_country(cid, name_tr, name_en, flag, continent, special_rules, default_type='required'):
     visas = {}
     for p in passports_info:
         pid = p['id']
+        
+        # 1. Explicit passport rule
         if pid in special_rules:
             st, days, note = special_rules[pid]
-        elif 'eu' in special_rules and (pid in eu_passports or pid in ['CH', 'NO']):
-            st, days, note = special_rules['eu']
-        elif 'top' in special_rules and pid in top_tier_passports:
-            st, days, note = special_rules['top']
+        # 2. Turkey specific rule (Bordo, Yeşil, Gri)
         elif 'tr' in special_rules and pid.startswith('TR_'):
             st, days, note = special_rules['tr']
+        # 3. EU passports rule
+        elif 'eu' in special_rules and (pid in eu_passports or pid in ['CH', 'NO']):
+            st, days, note = special_rules['eu']
+        # 4. Top tier passports rule (SG, JP, DE, FR, US, GB, etc.)
+        elif 'top' in special_rules and pid in top_tier_passports:
+            st, days, note = special_rules['top']
+        # 5. Fallback rule based on continent/real-world norms for Western / Global Passports:
+        elif pid in top_tier_passports or pid in eu_passports:
+            if continent in ['Amerika', 'Okyanusya']:
+                # Most Americas & Pacific islands give 90 days visa-free to EU / US / JP / SG
+                st, days, note = ('free', '90 Gün', '90 Gün Vizesiz')
+            elif continent == 'Asya':
+                # Most Asian countries give visa-free or e-visa/voa
+                if default_type == 'required':
+                    st, days, note = ('evisa', '30 Gün', 'Online e-Vize')
+                else:
+                    st, days, note = ('free', '30-90 Gün', 'Vizesiz')
+            elif continent == 'Afrika':
+                if default_type == 'free':
+                    st, days, note = ('free', '90 Gün', 'Vizesiz')
+                else:
+                    st, days, note = ('voa', '30 Gün', 'Kapıda Vize / e-Vize')
+            else:
+                st, days, note = ('free', '90 Gün', 'Vizesiz')
         elif 'default' in special_rules:
             st, days, note = special_rules['default']
         else:
@@ -150,12 +173,14 @@ def create_country(cid, name_tr, name_en, flag, continent, special_rules, defaul
                 st, days, note = ('voa', '30 Gün', 'Kapıda Vize')
             else:
                 st, days, note = ('required', None, 'Vize Gerekli')
+                
         visas[pid] = {'status': st, 'days': days, 'note': note}
     
     return {
         'id': cid, 'name': name_tr, 'nameEn': name_en, 'flag': flag,
         'continent': continent, 'isSchengen': False, 'visas': visas
     }
+
 
 # All other world countries
 all_world_list = [
