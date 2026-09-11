@@ -2,7 +2,14 @@ import React from 'react';
 import { Plus, Compass, Sparkles, SlidersHorizontal, CheckCircle2, Globe, FileText, AlertCircle } from 'lucide-react';
 import { PRESETS } from '../data';
 
-export default function Header({ onOpenAddModal, activePresetId, onApplyPreset, selectedCount }) {
+export default function Header({
+  onOpenAddModal,
+  activePresetId,
+  onApplyPreset,
+  selectedCount,
+  currentView,
+  onViewChange
+}) {
   return (
     <header className="border-b border-slate-800 bg-slate-950/90 backdrop-blur-md sticky top-0 z-30">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
@@ -20,7 +27,7 @@ export default function Header({ onOpenAddModal, activePresetId, onApplyPreset, 
                   Pasaport<span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-pink-400">Kıyasla</span>
                 </h1>
                 <span className="text-[10px] font-bold tracking-wider px-2 py-0.5 rounded-full bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 uppercase">
-                  Global 2026
+                  198 Ülke
                 </span>
               </div>
               <p className="text-xs text-slate-400 mt-0.5">
@@ -29,18 +36,47 @@ export default function Header({ onOpenAddModal, activePresetId, onApplyPreset, 
             </div>
           </div>
 
-          {/* Action Buttons */}
-          <div className="flex items-center gap-2.5">
-            <button
-              onClick={onOpenAddModal}
-              className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white text-sm font-semibold shadow-lg shadow-indigo-600/25 transition-all hover:scale-[1.02] active:scale-[0.98]"
-            >
-              <Plus className="w-4 h-4" />
-              <span>Pasaport Ekle</span>
-              <span className="ml-1 px-1.5 py-0.2 rounded-md bg-black/30 text-xs font-mono">
-                {selectedCount} Seçili
-              </span>
-            </button>
+          {/* Navigation Tabs & Action Buttons */}
+          <div className="flex items-center gap-2.5 flex-wrap sm:flex-nowrap">
+            {/* View Switcher Tabs */}
+            <div className="flex items-center bg-slate-900 p-1 rounded-xl border border-slate-800">
+              <button
+                onClick={() => onViewChange('table')}
+                className={`flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all ${
+                  currentView === 'table'
+                    ? 'bg-indigo-600 text-white shadow-md shadow-indigo-600/30'
+                    : 'text-slate-400 hover:text-white'
+                }`}
+              >
+                <span>📊 Kıyaslama Tablosu</span>
+              </button>
+              <button
+                onClick={() => onViewChange('ranking')}
+                className={`flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all ${
+                  currentView === 'ranking'
+                    ? 'bg-indigo-600 text-white shadow-md shadow-indigo-600/30'
+                    : 'text-slate-400 hover:text-white'
+                }`}
+              >
+                <span>🏆 Pasaport Sıralaması</span>
+                <span className="px-1.5 py-0.2 rounded-md bg-amber-400/20 text-amber-300 text-[10px] font-bold">
+                  Top 59
+                </span>
+              </button>
+            </div>
+
+            {currentView === 'table' && (
+              <button
+                onClick={onOpenAddModal}
+                className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white text-xs sm:text-sm font-semibold shadow-lg shadow-indigo-600/25 transition-all hover:scale-[1.02] active:scale-[0.98]"
+              >
+                <Plus className="w-4 h-4" />
+                <span>Pasaport Ekle</span>
+                <span className="ml-1 px-1.5 py-0.2 rounded-md bg-black/30 text-xs font-mono">
+                  {selectedCount}
+                </span>
+              </button>
+            )}
           </div>
         </div>
 

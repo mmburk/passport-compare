@@ -3,11 +3,15 @@ import Header from './components/Header';
 import PassportStatsCards from './components/PassportStatsCards';
 import FilterBar from './components/FilterBar';
 import ComparisonTable from './components/ComparisonTable';
+import PassportRankingView from './components/PassportRankingView';
 import AddPassportModal from './components/AddPassportModal';
 import CountryDetailModal from './components/CountryDetailModal';
 import { DESTINATIONS, PRESETS } from './data';
 
 export default function App() {
+  // View state: 'table' or 'ranking'
+  const [currentView, setCurrentView] = useState('table');
+
   // Defaults: Türkiye Bordo, Türkiye Yeşil, Almanya (3 sütun)
   const [selectedPassportIds, setSelectedPassportIds] = useState(['TR_BORDO', 'TR_YESIL', 'DE']);
   const [activePresetId, setActivePresetId] = useState('tr_vs_eu');
@@ -62,6 +66,7 @@ export default function App() {
   const handleApplyPreset = (preset) => {
     setSelectedPassportIds(preset.passportIds);
     setActivePresetId(preset.id);
+    setCurrentView('table');
   };
 
   // Filter destinations
@@ -95,46 +100,63 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col">
-      {/* Header with Nav, Presets and Color Legend */}
+      {/* Header with Nav, Presets and View Switcher */}
       <Header
         onOpenAddModal={() => setIsAddModalOpen(true)}
         activePresetId={activePresetId}
         onApplyPreset={handleApplyPreset}
         selectedCount={selectedPassportIds.length}
+        currentView={currentView}
+        onViewChange={setCurrentView}
       />
 
-      {/* Top Passport Stats & Progress Summary Cards */}
-      <PassportStatsCards
-        selectedIds={selectedPassportIds}
-        onRemovePassport={handleRemovePassport}
-        onMoveLeft={handleMoveLeft}
-        onMoveRight={handleMoveRight}
-        onOpenAddModal={() => setIsAddModalOpen(true)}
-      />
+      {/* Main Content: Table or Ranking */}
+      {currentView === 'ranking' ? (
+        <main className="flex-1 pb-16">
+          <PassportRankingView
+            selectedPassportIds={selectedPassportIds}
+            onAddPassport={handleAddPassport}
+            onRemovePassport={handleRemovePassport}
+            onSwitchToTable={() => setCurrentView('table')}
+          />
+        </main>
+      ) : (
+        <>
+          {/* Top Passport Stats & Progress Summary Cards */}
+          <PassportStatsCards
+            selectedIds={selectedPassportIds}
+            onRemovePassport={handleRemovePassport}
+            onMoveLeft={handleMoveLeft}
+            onMoveRight={handleMoveRight}
+            onOpenAddModal={() => setIsAddModalOpen(true)}
+          />
 
-      {/* Filter and Search Bar */}
-      <FilterBar
-        searchQuery={searchQuery}
-        onSearchChange={setSearchQuery}
-        selectedContinent={selectedContinent}
-        onContinentChange={setSelectedContinent}
-        onlyDifferences={onlyDifferences}
-        onToggleOnlyDifferences={() => setOnlyDifferences(!onlyDifferences)}
-        statusFilter={statusFilter}
-        onStatusFilterChange={setStatusFilter}
-        totalMatching={filteredDestinations.length}
-        totalDestinations={DESTINATIONS.length}
-      />
+          {/* Filter and Search Bar */}
+          <FilterBar
+            searchQuery={searchQuery}
+            onSearchChange={setSearchQuery}
+            selectedContinent={selectedContinent}
+            onContinentChange={setSelectedContinent}
+            onlyDifferences={onlyDifferences}
+            onToggleOnlyDifferences={() => setOnlyDifferences(!onlyDifferences)}
+            statusFilter={statusFilter}
+            onStatusFilterChange={setStatusFilter}
+            totalMatching={filteredDestinations.length}
+            totalDestinations={DESTINATIONS.length}
+          />
 
-      {/* Main Comparison Table */}
-      <main className="flex-1 pb-16">
-        <ComparisonTable
-          destinations={filteredDestinations}
-          selectedIds={selectedPassportIds}
-          onSelectCountry={setSelectedCountryDetail}
-          onRemovePassport={handleRemovePassport}
-        />
-      </main>
+          {/* Main Comparison Table */}
+          <main className="flex-1 pb-16">
+            <ComparisonTable
+              destinations={filteredDestinations}
+              selectedIds={selectedPassportIds}
+              onSelectCountry={setSelectedCountryDetail}
+              onRemovePassport={handleRemovePassport}
+            />
+          </main>
+        </>
+      )}
+
 
       {/* Footer */}
       <footer className="border-t border-slate-800 bg-slate-950 py-8 text-center text-xs text-slate-500">
