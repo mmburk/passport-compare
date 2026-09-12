@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { Search, Trophy, Medal, ArrowUpDown, Plus, Check, Globe2, Sparkles, X, ChevronRight } from 'lucide-react';
+import { Search, Trophy, ArrowUpDown, Plus, Check, Globe2, X, ChevronRight } from 'lucide-react';
 import { PASSPORTS, PASSPORT_STATS } from '../data';
 
 export default function PassportRankingView({
@@ -68,56 +68,56 @@ export default function PassportRankingView({
   const getRankBadge = (rank) => {
     if (rank === 1) {
       return (
-        <span className="w-8 h-8 rounded-full bg-gradient-to-tr from-amber-500 to-yellow-300 text-slate-950 font-black text-sm flex items-center justify-center shadow-lg shadow-amber-500/30 ring-2 ring-yellow-300/50">
+        <span className="w-8 h-8 rounded-xl bg-amber-100 dark:bg-amber-950/40 text-amber-900 dark:text-amber-300 font-bold text-sm flex items-center justify-center border border-amber-300 dark:border-amber-800/60 shadow-xs">
           🥇
         </span>
       );
     }
     if (rank === 2) {
       return (
-        <span className="w-8 h-8 rounded-full bg-gradient-to-tr from-slate-300 to-slate-100 text-slate-950 font-black text-sm flex items-center justify-center shadow-lg shadow-slate-300/30 ring-2 ring-slate-200/50">
+        <span className="w-8 h-8 rounded-xl bg-zinc-200 dark:bg-zinc-800 text-zinc-800 dark:text-zinc-200 font-bold text-sm flex items-center justify-center border border-zinc-300 dark:border-zinc-700 shadow-xs">
           🥈
         </span>
       );
     }
     if (rank === 3) {
       return (
-        <span className="w-8 h-8 rounded-full bg-gradient-to-tr from-amber-700 to-amber-500 text-white font-black text-sm flex items-center justify-center shadow-lg shadow-amber-700/30 ring-2 ring-amber-600/50">
+        <span className="w-8 h-8 rounded-xl bg-amber-50 dark:bg-amber-950/20 text-amber-900 dark:text-amber-400 font-bold text-sm flex items-center justify-center border border-amber-200 dark:border-amber-800/40 shadow-xs">
           🥉
         </span>
       );
     }
     return (
-      <span className="w-8 h-8 rounded-xl bg-slate-800 text-slate-300 font-bold text-xs flex items-center justify-center border border-slate-700">
+      <span className="w-8 h-8 rounded-xl bg-zinc-100 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-300 font-medium text-xs flex items-center justify-center border border-zinc-200 dark:border-zinc-700">
         #{rank}
       </span>
     );
   };
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-6">
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6 space-y-4 sm:space-y-6">
       {/* Page Title & Hero */}
-      <div className="relative overflow-hidden rounded-3xl bg-gradient-to-r from-slate-900 via-indigo-950/40 to-slate-900 border border-slate-800 p-6 sm:p-8 shadow-2xl">
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 relative z-10">
+      <div className="relative overflow-hidden rounded-3xl bg-white dark:bg-zinc-900/80 border border-zinc-200 dark:border-zinc-800 p-5 sm:p-7 shadow-xs">
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 relative z-10">
           <div>
-            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 text-xs font-bold uppercase tracking-wider mb-3">
-              <Trophy className="w-3.5 h-3.5 text-amber-400" /> Küresel Pasaport Güç Endeksi
+            <div className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-zinc-100 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-300 border border-zinc-200 dark:border-zinc-700 text-xs font-medium uppercase tracking-wider mb-2">
+              <Trophy className="w-3 h-3 text-zinc-500 dark:text-zinc-400" /> Küresel Pasaport Sıralaması
             </div>
-            <h2 className="text-2xl sm:text-3xl font-black text-white tracking-tight">
+            <h2 className="text-xl sm:text-2xl font-bold text-zinc-900 dark:text-white tracking-tight">
               Dünya Pasaport Sıralaması (198 Ülke)
             </h2>
-            <p className="text-sm text-slate-400 mt-2 max-w-2xl leading-relaxed">
-              Tüm pasaportların dünya çapında vizesiz, kapıda vize ve e-vize erişim haklarına göre hesaplanan gerçek zamanlı sıralaması. İstediğiniz pasaportu arayabilir ve tek tıkla kıyaslamaya ekleyebilirsiniz.
+            <p className="text-xs sm:text-sm text-zinc-500 dark:text-zinc-400 mt-1 max-w-2xl leading-relaxed">
+              Pasaportların küresel vizesiz, kapıda vize ve e-vize erişim gücüne göre hesaplanan güncel sıralaması. İstediğiniz ülkeyi arayabilir ve tek tıkla kıyaslamaya ekleyebilirsiniz.
             </p>
           </div>
 
           {/* Quick Go to Table button */}
-          <div className="shrink-0 flex items-center gap-3">
+          <div className="shrink-0 flex items-center">
             <button
               onClick={onSwitchToTable}
-              className="px-5 py-3 rounded-2xl bg-indigo-600 hover:bg-indigo-500 text-white font-bold text-sm shadow-xl shadow-indigo-600/30 flex items-center gap-2 transition-all hover:scale-[1.02] active:scale-[0.98]"
+              className="w-full sm:w-auto px-4 py-2 sm:py-2.5 rounded-xl bg-zinc-900 dark:bg-zinc-100 hover:bg-zinc-800 dark:hover:bg-white text-white dark:text-zinc-900 font-medium text-xs sm:text-sm shadow-xs flex items-center justify-center gap-1.5 transition-all"
             >
-              <span>Karşılaştırma Tablosuna Dön</span>
+              <span>Kıyaslama Tablosuna Dön</span>
               <ChevronRight className="w-4 h-4" />
             </button>
           </div>
@@ -125,49 +125,50 @@ export default function PassportRankingView({
       </div>
 
       {/* Search & Filter Controls */}
-      <div className="bg-slate-900/90 border border-slate-800 rounded-2xl p-4 shadow-xl space-y-4">
-        <div className="flex flex-col md:flex-row items-stretch md:items-center justify-between gap-3">
+      <div className="bg-white dark:bg-zinc-900/80 border border-zinc-200 dark:border-zinc-800 rounded-2xl p-3 sm:p-4 shadow-xs space-y-3">
+        <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-2.5">
           {/* Search Input */}
           <div className="relative flex-1">
-            <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400" />
+            <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-400 dark:text-zinc-500" />
             <input
               type="text"
-              placeholder="Pasaport veya ülke ara (Örn: Türkiye, Yeşil, Almanya, Japonya, Singapur, ABD)..."
+              placeholder="Pasaport veya ülke ara (Türkiye, Almanya, Japonya, ABD)..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full pl-10 pr-10 py-2.5 bg-slate-950/80 border border-slate-700/80 rounded-xl text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all"
+              className="w-full pl-10 pr-10 py-2 sm:py-2 bg-zinc-50 dark:bg-zinc-950/80 border border-zinc-200 dark:border-zinc-800 rounded-xl text-base sm:text-sm text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 dark:placeholder-zinc-500 focus:outline-hidden focus:ring-1 focus:ring-zinc-400 dark:focus:ring-zinc-600 transition-all"
             />
             {searchQuery && (
               <button
                 onClick={() => setSearchQuery('')}
-                className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-white"
+                className="absolute right-3 top-1/2 -translate-y-1/2 text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-200 p-1"
+                aria-label="Temizle"
               >
-                <X className="w-4 h-4" />
+                <X className="w-3.5 h-3.5" />
               </button>
             )}
           </div>
 
           {/* Sort By Dropdown */}
           <div className="flex items-center gap-2 shrink-0">
-            <span className="text-xs text-slate-400 flex items-center gap-1 font-medium">
-              <ArrowUpDown className="w-3.5 h-3.5 text-indigo-400" /> Sırala:
+            <span className="text-xs text-zinc-500 dark:text-zinc-400 flex items-center gap-1 font-medium">
+              <ArrowUpDown className="w-3.5 h-3.5" /> Sırala:
             </span>
             <select
               value={sortBy}
               onChange={(e) => setSortBy(e.target.value)}
-              className="bg-slate-950/80 border border-slate-700/80 text-xs text-slate-200 rounded-xl px-3 py-2.5 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all cursor-pointer font-medium"
+              className="bg-zinc-50 dark:bg-zinc-950/80 border border-zinc-200 dark:border-zinc-800 text-xs text-zinc-900 dark:text-zinc-200 rounded-xl px-2.5 py-2 focus:outline-hidden focus:ring-1 focus:ring-zinc-400 transition-all cursor-pointer font-medium"
             >
-              <option value="rank">Küresel Sıralamaya Göre (#1 ➔ #59)</option>
-              <option value="free">En Çok Vizesiz Ülke Sayısına Göre</option>
-              <option value="name">Ülke Adına Göre (A ➔ Z)</option>
+              <option value="rank">Küresel Sıralama (#1 ➔ #59)</option>
+              <option value="free">En Çok Vizesiz Olanlar</option>
+              <option value="name">Ülke Adı (A ➔ Z)</option>
             </select>
           </div>
         </div>
 
         {/* Region Filter Pills */}
-        <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 pt-3 border-t border-slate-800/80">
-          <div className="flex items-center gap-1.5 overflow-x-auto max-w-full pb-1">
-            <span className="text-xs text-slate-500 font-medium mr-1 flex items-center gap-1 shrink-0">
+        <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2.5 pt-2 border-t border-zinc-100 dark:border-zinc-800/60">
+          <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar max-w-full pb-0.5">
+            <span className="text-xs text-zinc-500 dark:text-zinc-400 font-medium mr-1 flex items-center gap-1 shrink-0">
               <Globe2 className="w-3.5 h-3.5" /> Bölge:
             </span>
             {regions.map((region) => {
@@ -176,10 +177,10 @@ export default function PassportRankingView({
                 <button
                   key={region}
                   onClick={() => setSelectedRegion(region)}
-                  className={`px-3 py-1 rounded-lg text-xs font-medium whitespace-nowrap transition-all ${
+                  className={`px-3 py-1 rounded-lg text-xs whitespace-nowrap transition-all ${
                     isSelected
-                      ? 'bg-indigo-600 text-white font-semibold shadow-md shadow-indigo-600/30'
-                      : 'bg-slate-950/60 hover:bg-slate-800 text-slate-400 hover:text-slate-200 border border-slate-800'
+                      ? 'bg-zinc-900 text-white dark:bg-zinc-100 dark:text-zinc-950 font-semibold shadow-xs'
+                      : 'bg-zinc-50 dark:bg-zinc-950/80 hover:bg-zinc-100 dark:hover:bg-zinc-800 text-zinc-600 dark:text-zinc-400 border border-zinc-200 dark:border-zinc-800'
                   }`}
                 >
                   {region}
@@ -188,14 +189,14 @@ export default function PassportRankingView({
             })}
           </div>
 
-          <div className="text-xs text-slate-400 shrink-0">
-            <span className="font-bold text-indigo-400">{rankedPassports.length}</span> pasaport listeleniyor
+          <div className="text-xs text-zinc-500 dark:text-zinc-400 shrink-0 self-end sm:self-auto">
+            <span className="font-semibold text-zinc-900 dark:text-zinc-100">{rankedPassports.length}</span> pasaport listeleniyor
           </div>
         </div>
       </div>
 
       {/* Ranking List */}
-      <div className="space-y-3">
+      <div className="space-y-2.5">
         {rankedPassports.map((passport) => {
           const isSelected = selectedPassportIds.includes(passport.id);
           const { free, evisa, voa, required, total, score, rank } = passport.stats;
@@ -208,15 +209,15 @@ export default function PassportRankingView({
           return (
             <div
               key={passport.id}
-              className={`p-4 sm:p-5 rounded-2xl border transition-all ${
+              className={`p-3.5 sm:p-4 rounded-2xl border transition-all ${
                 isSelected
-                  ? 'bg-slate-900/90 border-indigo-500/40 shadow-lg shadow-indigo-500/5'
-                  : 'bg-slate-950/70 border-slate-800/90 hover:border-slate-700/80 hover:bg-slate-900/40'
+                  ? 'bg-zinc-50/80 dark:bg-zinc-900 border-zinc-400 dark:border-zinc-700 shadow-xs'
+                  : 'bg-white dark:bg-zinc-900/60 border-zinc-200 dark:border-zinc-800 hover:border-zinc-300 dark:hover:border-zinc-700 hover:bg-zinc-50/50 dark:hover:bg-zinc-900/80'
               }`}
             >
-              <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4">
+              <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-3 sm:gap-4">
                 {/* Left: Rank & Passport Info */}
-                <div className="flex items-center gap-4">
+                <div className="flex items-center gap-3">
                   {/* Rank Badge */}
                   <div className="shrink-0 flex items-center justify-center">
                     {getRankBadge(rank)}
@@ -224,88 +225,83 @@ export default function PassportRankingView({
 
                   {/* Passport Mini Cover Graphic */}
                   <div
-                    className="w-12 h-16 rounded-lg shadow-lg flex flex-col items-center justify-between p-1.5 text-center shrink-0 border relative overflow-hidden"
-                    style={{
-                      backgroundColor: passport.coverColor,
-                      borderColor: 'rgba(255,255,255,0.2)',
-                      boxShadow: '0 8px 16px -4px rgba(0,0,0,0.5)'
-                    }}
+                    className="w-10 h-14 rounded-md shadow-xs flex flex-col items-center justify-between p-1 text-center shrink-0 border border-white/20 relative"
+                    style={{ backgroundColor: passport.coverColor }}
                   >
-                    <div className="absolute inset-x-0 top-0 h-1 bg-gradient-to-r from-transparent via-white/30 to-transparent"></div>
-                    <span className="text-sm drop-shadow">{passport.flag}</span>
-                    <span className="text-[6px] font-black tracking-widest text-amber-300/90 uppercase">
+                    <span className="text-xs">{passport.flag}</span>
+                    <span className="text-[6px] font-bold tracking-widest text-amber-200/90 uppercase">
                       PASSPORT
                     </span>
                   </div>
 
                   {/* Name & Subtitle */}
-                  <div>
-                    <div className="flex items-center gap-2 flex-wrap">
-                      <h3 className="text-base sm:text-lg font-bold text-white leading-snug">
+                  <div className="min-w-0">
+                    <div className="flex items-center gap-1.5 flex-wrap">
+                      <h3 className="text-sm sm:text-base font-semibold text-zinc-900 dark:text-zinc-100 leading-snug">
                         {passport.name}
                       </h3>
                       {passport.id.startsWith('TR_') && (
-                        <span className="text-[10px] font-black px-2 py-0.5 rounded bg-indigo-500/20 text-indigo-300 border border-indigo-500/30">
-                          TÜRKİYE ÖZEL
+                        <span className="text-[9px] font-semibold px-1.5 py-0.2 rounded bg-red-50 dark:bg-red-950/40 text-red-700 dark:text-red-300 border border-red-200 dark:border-red-800/60">
+                          TÜRKİYE
                         </span>
                       )}
-                      <span className="text-xs text-slate-400 font-normal">
+                      <span className="text-xs text-zinc-400 dark:text-zinc-500 font-normal">
                         ({passport.country})
                       </span>
                     </div>
-                    <p className="text-xs text-slate-400 mt-0.5">{passport.fullName}</p>
-                    <div className="text-[11px] text-slate-500 mt-1">
+                    <p className="text-[11px] text-zinc-500 dark:text-zinc-400 mt-0.5 truncate">{passport.fullName}</p>
+                    <div className="text-[10px] text-zinc-400 dark:text-zinc-500 mt-0.5">
                       {passport.continent} • {passport.type}
                     </div>
                   </div>
                 </div>
 
                 {/* Middle: Progress Bar & 4 Colors Breakdown */}
-                <div className="lg:w-80 xl:w-96 shrink-0 space-y-2">
-                  <div className="flex justify-between text-xs font-semibold text-slate-300">
-                    <span className="flex items-center gap-1.5">
-                      <span className="text-emerald-400 font-bold text-sm">{free + voa}</span> Ülke Kolay Erişim
+                <div className="lg:w-80 xl:w-96 shrink-0 space-y-1.5">
+                  <div className="flex justify-between text-xs font-medium text-zinc-600 dark:text-zinc-400">
+                    <span className="flex items-center gap-1">
+                      <span className="text-emerald-700 dark:text-emerald-400 font-semibold">{free + voa}</span> Ülke Kolay Erişim
                     </span>
-                    <span className="text-slate-400">Skor: {score}</span>
+                    <span>Skor: <strong className="text-zinc-900 dark:text-zinc-100">{score}</strong></span>
                   </div>
 
                   {/* 4 Colors Segmented Progress Bar */}
-                  <div className="h-3 w-full bg-slate-800 rounded-full overflow-hidden flex shadow-inner">
+                  <div className="h-2 w-full bg-zinc-100 dark:bg-zinc-800 rounded-full overflow-hidden flex">
                     <div
                       style={{ width: `${freePercent}%` }}
-                      className="bg-emerald-500 hover:opacity-90 transition-all"
+                      className="bg-emerald-500 transition-all duration-300"
                       title={`Vizesiz: ${free} ülke (%${freePercent})`}
                     ></div>
                     <div
                       style={{ width: `${evisaPercent}%` }}
-                      className="bg-sky-500 hover:opacity-90 transition-all"
+                      className="bg-sky-500 transition-all duration-300"
                       title={`e-Vize: ${evisa} ülke (%${evisaPercent})`}
                     ></div>
                     <div
                       style={{ width: `${voaPercent}%` }}
-                      className="bg-amber-500 hover:opacity-90 transition-all"
+                      className="bg-amber-500 transition-all duration-300"
                       title={`Kapıda Vize: ${voa} ülke (%${voaPercent})`}
                     ></div>
                     <div
                       style={{ width: `${requiredPercent}%` }}
-                      className="bg-rose-500 hover:opacity-90 transition-all"
+                      className="bg-zinc-300 dark:bg-zinc-700 transition-all duration-300"
                       title={`Vize Gerekli: ${required} ülke (%${requiredPercent})`}
                     ></div>
                   </div>
 
                   {/* 4 Tiny Status Pills */}
-                  <div className="grid grid-cols-4 gap-1.5 text-center text-[10px]">
-                    <div className="bg-emerald-950/40 border border-emerald-500/30 rounded-lg py-1 px-1 text-emerald-400 font-bold">
-                      {free} <span className="font-normal text-[9px] block text-emerald-300/80">Vizesiz</span>
+                  <div className="grid grid-cols-4 gap-1 text-center text-[10px]">
+                    <div className="bg-emerald-50/70 dark:bg-emerald-950/20 border border-emerald-200/60 dark:border-emerald-800/40 rounded-md py-0.5 text-emerald-800 dark:text-emerald-400 font-semibold">
+                      {free} <span className="font-normal text-[9px] block text-emerald-700/80 dark:text-emerald-400/80">Vizesiz</span>
                     </div>
-                    <div className="bg-sky-950/40 border border-sky-500/30 rounded-lg py-1 px-1 text-sky-400 font-bold">
-                      {evisa} <span className="font-normal text-[9px] block text-sky-300/80">e-Vize</span>
+                    <div className="bg-sky-50/70 dark:bg-sky-950/20 border border-sky-200/60 dark:border-sky-800/40 rounded-md py-0.5 text-sky-800 dark:text-sky-400 font-semibold">
+                      {evisa} <span className="font-normal text-[9px] block text-sky-700/80 dark:text-sky-400/80">e-Vize</span>
                     </div>
-                    <div className="bg-amber-950/40 border border-amber-500/30 rounded-lg py-1 px-1 text-amber-400 font-bold">
-                      {voa} <span className="font-normal text-[9px] block text-amber-300/80">Kapıda</span>
+                    <div className="bg-amber-50/70 dark:bg-amber-950/20 border border-amber-200/60 dark:border-amber-800/40 rounded-md py-0.5 text-amber-900 dark:text-amber-400 font-semibold">
+                      {voa} <span className="font-normal text-[9px] block text-amber-800/80 dark:text-amber-400/80">Kapıda</span>
                     </div>
-                    <div className="bg-rose-950/40 border border-rose-500/30 rounded-lg py-1 px-1 text-rose-400 font-bold">
-                      {required} <span className="font-normal text-[9px] block text-rose-300/80">Vize</span>
+                    <div className="bg-zinc-100 dark:bg-zinc-800/40 border border-zinc-200 dark:border-zinc-800 rounded-md py-0.5 text-zinc-700 dark:text-zinc-300 font-semibold">
+                      {required} <span className="font-normal text-[9px] block text-zinc-500">Vize</span>
                     </div>
                   </div>
                 </div>
@@ -315,17 +311,17 @@ export default function PassportRankingView({
                   {isSelected ? (
                     <button
                       onClick={() => onRemovePassport(passport.id)}
-                      className="px-4 py-2 rounded-xl text-xs font-bold bg-indigo-500/20 text-indigo-300 border border-indigo-500/40 hover:bg-rose-500/20 hover:text-rose-300 hover:border-rose-500/40 transition-all flex items-center gap-1.5 group"
+                      className="w-full sm:w-auto px-3.5 py-1.5 rounded-xl text-xs font-medium bg-zinc-100 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-300 border border-zinc-300 dark:border-zinc-700 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-950/30 dark:hover:text-rose-400 dark:hover:border-rose-800 transition-all flex items-center justify-center gap-1.5 group"
                     >
-                      <Check className="w-3.5 h-3.5 text-indigo-400 group-hover:hidden" />
-                      <X className="w-3.5 h-3.5 text-rose-400 hidden group-hover:block" />
+                      <Check className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400 group-hover:hidden" />
+                      <X className="w-3.5 h-3.5 text-rose-500 hidden group-hover:block" />
                       <span className="group-hover:hidden">Kıyaslanıyor</span>
                       <span className="hidden group-hover:inline">Kaldır</span>
                     </button>
                   ) : (
                     <button
                       onClick={() => onAddPassport(passport.id)}
-                      className="px-4 py-2 rounded-xl text-xs font-bold bg-slate-800 hover:bg-indigo-600 text-slate-200 hover:text-white border border-slate-700 hover:border-transparent transition-all flex items-center gap-1.5 shadow-md"
+                      className="w-full sm:w-auto px-3.5 py-1.5 rounded-xl text-xs font-medium bg-zinc-900 dark:bg-zinc-100 hover:bg-zinc-800 dark:hover:bg-white text-white dark:text-zinc-900 border border-transparent transition-all flex items-center justify-center gap-1.5 shadow-xs"
                     >
                       <Plus className="w-3.5 h-3.5" />
                       <span>Kıyaslamaya Ekle</span>
@@ -340,3 +336,4 @@ export default function PassportRankingView({
     </div>
   );
 }
+

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Search, Sparkles, Filter, CheckCircle2, Globe2, X } from 'lucide-react';
+import { Search, Sparkles, Globe2, X } from 'lucide-react';
 
 const CONTINENTS = ['Tümü', 'Avrupa', 'Asya', 'Amerika', 'Afrika', 'Okyanusya'];
 
@@ -10,50 +10,51 @@ export default function FilterBar({
   onContinentChange,
   onlyDifferences,
   onToggleOnlyDifferences,
-  statusFilter,
-  onStatusFilterChange,
   totalMatching,
   totalDestinations
 }) {
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2">
-      <div className="bg-slate-900/90 border border-slate-800/80 rounded-2xl p-3 sm:p-4 shadow-xl space-y-3">
+      <div className="bg-white dark:bg-zinc-900/80 border border-zinc-200 dark:border-zinc-800 rounded-2xl p-3 sm:p-4 shadow-xs space-y-3 transition-colors">
         {/* Top Controls Row */}
-        <div className="flex flex-col md:flex-row items-stretch md:items-center justify-between gap-3">
-          {/* Search Box */}
+        <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-2.5">
+          {/* Search Box with 16px font on mobile to prevent iOS auto-zoom */}
           <div className="relative flex-1">
-            <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400" />
+            <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-400 dark:text-zinc-500" />
             <input
               type="text"
-              placeholder="Hedef ülke ara (Örn: Almanya, Yunanistan, Japonya, Mısır, Brezilya)..."
+              placeholder="Hedef ülke ara (Almanya, Mısır, Japonya)..."
               value={searchQuery}
               onChange={(e) => onSearchChange(e.target.value)}
-              className="w-full pl-10 pr-10 py-2 bg-slate-950/70 border border-slate-700/70 rounded-xl text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all"
+              className="w-full pl-10 pr-10 py-2 sm:py-2 bg-zinc-50 dark:bg-zinc-950/80 border border-zinc-200 dark:border-zinc-800 rounded-xl text-base sm:text-sm text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 dark:placeholder-zinc-500 focus:outline-hidden focus:ring-1 focus:ring-zinc-400 dark:focus:ring-zinc-600 transition-all"
             />
             {searchQuery && (
               <button
                 onClick={() => onSearchChange('')}
-                className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-white"
+                className="absolute right-3 top-1/2 -translate-y-1/2 text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-200 p-1"
+                aria-label="Aramayı Temizle"
               >
-                <X className="w-4 h-4" />
+                <X className="w-3.5 h-3.5" />
               </button>
             )}
           </div>
 
           {/* Only Differences Toggle Switch */}
-          <div className="flex items-center gap-3">
+          <div className="flex items-center">
             <button
               onClick={onToggleOnlyDifferences}
-              className={`flex items-center gap-2.5 px-3.5 py-2 rounded-xl text-xs sm:text-sm font-semibold border transition-all ${
+              className={`w-full sm:w-auto flex items-center justify-center gap-2 px-3.5 py-2 rounded-xl text-xs sm:text-sm font-medium border transition-all ${
                 onlyDifferences
-                  ? 'bg-amber-500/20 text-amber-300 border-amber-500/50 shadow-md shadow-amber-500/10 ring-1 ring-amber-500/30'
-                  : 'bg-slate-950/60 text-slate-400 border-slate-800 hover:border-slate-700 hover:text-slate-200'
+                  ? 'bg-zinc-900 text-white dark:bg-zinc-100 dark:text-zinc-950 border-zinc-900 dark:border-zinc-100 shadow-xs'
+                  : 'bg-zinc-50 dark:bg-zinc-950/80 text-zinc-600 dark:text-zinc-400 border-zinc-200 dark:border-zinc-800 hover:bg-zinc-100 dark:hover:bg-zinc-800/80'
               }`}
             >
-              <Sparkles className={`w-4 h-4 ${onlyDifferences ? 'text-amber-400 animate-pulse' : 'text-slate-500'}`} />
-              <span>Yalnızca Farklılıkları Göster</span>
-              <span className={`text-[10px] px-1.5 py-0.5 rounded font-bold uppercase ${
-                onlyDifferences ? 'bg-amber-400 text-slate-950' : 'bg-slate-800 text-slate-400'
+              <Sparkles className={`w-3.5 h-3.5 ${onlyDifferences ? 'text-amber-300' : 'text-zinc-400 dark:text-zinc-500'}`} />
+              <span>Yalnızca Farklılıklar</span>
+              <span className={`text-[10px] px-1.5 py-0.2 rounded-md uppercase font-semibold ${
+                onlyDifferences
+                  ? 'bg-zinc-800 text-zinc-200 dark:bg-zinc-200 dark:text-zinc-900'
+                  : 'bg-zinc-200/80 text-zinc-600 dark:bg-zinc-800 dark:text-zinc-400'
               }`}>
                 {onlyDifferences ? 'Açık' : 'Kapalı'}
               </span>
@@ -61,11 +62,11 @@ export default function FilterBar({
           </div>
         </div>
 
-        {/* Bottom Filters Row: Continents & Status */}
-        <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2.5 pt-2 border-t border-slate-800/60">
+        {/* Bottom Filters Row: Continents & Results count */}
+        <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2.5 pt-2 border-t border-zinc-100 dark:border-zinc-800/60">
           {/* Continent Pills */}
-          <div className="flex items-center gap-1.5 overflow-x-auto max-w-full pb-1">
-            <span className="text-xs text-slate-500 font-medium mr-1 flex items-center gap-1 shrink-0">
+          <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar max-w-full pb-0.5">
+            <span className="text-xs text-zinc-500 dark:text-zinc-400 font-medium mr-1 flex items-center gap-1 shrink-0">
               <Globe2 className="w-3.5 h-3.5" /> Kıta:
             </span>
             {CONTINENTS.map((continent) => {
@@ -74,10 +75,10 @@ export default function FilterBar({
                 <button
                   key={continent}
                   onClick={() => onContinentChange(continent)}
-                  className={`px-3 py-1 rounded-lg text-xs font-medium whitespace-nowrap transition-all ${
+                  className={`px-3 py-1 rounded-lg text-xs whitespace-nowrap transition-all ${
                     isSelected
-                      ? 'bg-indigo-600 text-white font-semibold shadow-md shadow-indigo-600/30'
-                      : 'bg-slate-950/60 hover:bg-slate-800 text-slate-400 hover:text-slate-200 border border-slate-800'
+                      ? 'bg-zinc-900 text-white dark:bg-zinc-100 dark:text-zinc-950 font-semibold shadow-xs'
+                      : 'bg-zinc-50 dark:bg-zinc-950/80 hover:bg-zinc-100 dark:hover:bg-zinc-800 text-zinc-600 dark:text-zinc-400 border border-zinc-200 dark:border-zinc-800'
                   }`}
                 >
                   {continent}
@@ -87,11 +88,12 @@ export default function FilterBar({
           </div>
 
           {/* Results Count Badge */}
-          <div className="text-xs text-slate-400 self-end sm:self-auto shrink-0">
-            <span className="font-bold text-indigo-400">{totalMatching}</span> / {totalDestinations} ülke listeleniyor
+          <div className="text-xs text-zinc-500 dark:text-zinc-400 self-end sm:self-auto shrink-0">
+            <span className="font-semibold text-zinc-900 dark:text-zinc-100">{totalMatching}</span> / {totalDestinations} ülke
           </div>
         </div>
       </div>
     </div>
   );
 }
+

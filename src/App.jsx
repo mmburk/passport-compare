@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import Header from './components/Header';
 import PassportStatsCards from './components/PassportStatsCards';
 import FilterBar from './components/FilterBar';
@@ -9,6 +9,26 @@ import CountryDetailModal from './components/CountryDetailModal';
 import { DESTINATIONS, PRESETS } from './data';
 
 export default function App() {
+  // Theme state: 'dark' or 'light'
+  const [theme, setTheme] = useState(() => {
+    const saved = localStorage.getItem('theme');
+    if (saved) return saved;
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  });
+
+  useEffect(() => {
+    if (theme === 'dark') {
+      document.documentElement.classList.add('dark');
+    } else {
+      document.documentElement.classList.remove('dark');
+    }
+    localStorage.setItem('theme', theme);
+  }, [theme]);
+
+  const toggleTheme = () => {
+    setTheme(prev => (prev === 'dark' ? 'light' : 'dark'));
+  };
+
   // View state: 'table' or 'ranking'
   const [currentView, setCurrentView] = useState('table');
 
@@ -99,7 +119,7 @@ export default function App() {
   }, [DESTINATIONS, searchQuery, selectedContinent, onlyDifferences, selectedPassportIds]);
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col">
+    <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-zinc-100 flex flex-col transition-colors duration-200">
       {/* Header with Nav, Presets and View Switcher */}
       <Header
         onOpenAddModal={() => setIsAddModalOpen(true)}
@@ -108,6 +128,8 @@ export default function App() {
         selectedCount={selectedPassportIds.length}
         currentView={currentView}
         onViewChange={setCurrentView}
+        theme={theme}
+        onToggleTheme={toggleTheme}
       />
 
       {/* Main Content: Table or Ranking */}
@@ -157,12 +179,11 @@ export default function App() {
         </>
       )}
 
-
       {/* Footer */}
-      <footer className="border-t border-slate-800 bg-slate-950 py-8 text-center text-xs text-slate-500">
+      <footer className="border-t border-zinc-200 dark:border-zinc-800 bg-white/60 dark:bg-zinc-950/60 backdrop-blur py-8 text-center text-xs text-zinc-500 dark:text-zinc-400">
         <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p>© 2026 Pasaport Kıyaslama Platformu • Vize serbestliği ve seyahat gereksinimleri</p>
-          <div className="flex items-center gap-4 text-slate-400">
+          <div className="flex items-center gap-3 text-zinc-400 dark:text-zinc-500">
             <span>Türkiye (Bordo & Yeşil)</span>
             <span>•</span>
             <span>Schengen Bölgesi</span>
